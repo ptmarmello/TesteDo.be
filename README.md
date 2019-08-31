@@ -1,2 +1,2 @@
-# Do.Be.github.io
+# Do.Be
 Official Do.Be WebSite
