@@ -1,0 +1,3 @@
+Rodapé faltando padronizar com as Mídias Sociais
+Faltando a barra de pesquisa no meio
+Acertar o Cabeçalho para o "login"
